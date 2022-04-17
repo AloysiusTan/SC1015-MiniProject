@@ -8,7 +8,7 @@ This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial I
 
 - @AloysiusTan - Code (Data Visualization, Data Extraction, Feature Engineering, Modelling, Value Proposition)
 - @Yu En - Data Visualization, Data Extraction and Slides
-- @Andy - Slides
+- @Andy - Data Extraction and Slides
 
 ## Problem Definition
 
@@ -31,6 +31,7 @@ This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial I
 - Handling imbalanced datasets using upsampling methods
 - Logistic Regression and Random Forest Classification from sklearn
 - Usage of clustering techniques (K-Means and DBSCAN)
+- Feature Importance with Random Forest
 - Collaborating using GitHub
 - Concepts about Precision, Recall and ROC curve
 
