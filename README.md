@@ -8,7 +8,7 @@ This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial I
 
 - @AloysiusTan - Code (Data Visualization, Data Extraction, Feature Engineering, Modelling, Value Proposition)
 - @Yu En - Data Visualization, Data Extraction and Slides
-- @Andy - Data Extraction and Slides
+- @Andy - Data Visualization, Data Extraction and Slides
 
 ## Problem Definition
 
@@ -22,6 +22,7 @@ This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 
+- Clustering allows us to understand the different behaviours of different segments of users which can help to target product intervention.
 - Upsampling imbalanced data improved model performance especially on the minority class
 - Logistic Regression did not perform well with non-linearly correlated variables
 - Yes, it is possible to predict if a user will churn with acceptable amount of accuracy and recall
@@ -33,7 +34,9 @@ This is a Mini-Project for CS1015 (Introduction to Data Science and Artificial I
 - Usage of clustering techniques (K-Means and DBSCAN)
 - Feature Importance with Random Forest
 - Collaborating using GitHub
-- Concepts about Precision, Recall and ROC curve
+- Evaluations of Classification Models using Precision, Recall and ROC curve
+- Identifying behavioural time trends
+- Hyperparameter tuning using GridSearchCV
 
 ## References
 
